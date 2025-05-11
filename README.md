@@ -1,6 +1,7 @@
 # Mood of the Queue 🎭
 
 A Streamlit application for tracking and visualizing the emotional vibe of patient support tickets.
+<img width="776" alt="Screen Shot 2025-05-10 at 11 19 40 PM" src="https://github.com/user-attachments/assets/95a8132f-1185-4a47-862f-3382096e5487" />
 
 ## Features ✨
 - Log ticket queue moods with emoji selection (😊 😐 😠 😕 😟)
