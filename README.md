@@ -8,7 +8,7 @@ cd Mochi_Health_Assignment
 
 Step 2: Set Up a Virtual Environment 
 
-python3 -m venv venv
+python -m venv venv(if python3 is installed use python3, use this line of command to check if python3 is installed: python3 --version)
 
 On windows: venv\Scripts\activate
 
