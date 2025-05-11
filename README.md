@@ -2,6 +2,8 @@
 
 A Streamlit application for tracking and visualizing the emotional vibe of patient support tickets.
 <img width="776" alt="Screen Shot 2025-05-10 at 11 19 40 PM" src="https://github.com/user-attachments/assets/95a8132f-1185-4a47-862f-3382096e5487" />
+<img width="759" alt="Screen Shot 2025-05-10 at 11 22 04 PM" src="https://github.com/user-attachments/assets/f2534f26-6971-45ff-98bc-aae506a9a542" />
+
 
 ## Features ✨
 - Log ticket queue moods with emoji selection (😊 😐 😠 😕 😟)
