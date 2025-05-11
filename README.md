@@ -25,7 +25,7 @@ A Streamlit application for tracking and visualizing the emotional vibe of patie
    cd mood-of-the-queue
 2. Set Up a Virtual Environment
    ```bash
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate  # Linux/Mac
    venv\Scripts\activate    # Windows
 3. Install Dependencies
