@@ -25,6 +25,14 @@ A Streamlit application for tracking and visualizing the emotional vibe of patie
 2. Set Up a Virtual Environment
    ```bash
    python -m venv venv
+   source venv/bin/activate  # Linux/Mac
+   venv\Scripts\activate    # Windows
+3. Install Dependencies
+   ```bash
+   pip install -r requirements.txt
+4. Run the Streamlit App
+   ```bash
+   streamlit run app.py
 Run the following commands in your Mac Terminal or Windows Command
 
 Step 1: Clone the Repository
