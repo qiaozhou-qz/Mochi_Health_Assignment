@@ -22,6 +22,9 @@ A Streamlit application for tracking and visualizing the emotional vibe of patie
    ```bash
    git clone https://github.com/your-username/mood-of-the-queue.git
    cd mood-of-the-queue
+2. Set Up a Virtual Environment
+   ```bash
+   python -m venv venv
 Run the following commands in your Mac Terminal or Windows Command
 
 Step 1: Clone the Repository
