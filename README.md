@@ -1,3 +1,27 @@
+# Mood of the Queue 🎭
+
+A Streamlit application for tracking and visualizing the emotional vibe of patient support tickets.
+
+![App Screenshot](screenshot.png) *(optional: add screenshot later)*
+
+## Features ✨
+- Log ticket queue moods with emoji selection (😊 😐 😠 😕 😟)
+- Add optional notes for context
+- Automatic timestamp recording
+- Real-time visualization of daily mood trends
+- Google Sheets backend for data storage
+
+## Prerequisites 🛠️
+- Python 3.7+
+- Google Cloud Project with:
+  - Google Sheets API enabled
+  - Service account credentials
+
+## Installation 📥
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/mood-of-the-queue.git
+   cd mood-of-the-queue
 Run the following commands in your Mac Terminal or Windows Command
 
 Step 1: Clone the Repository
