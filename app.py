@@ -57,7 +57,7 @@ with st.form("mood_form"):
 # Visualization section
 st.subheader("Today's Mood Trends")
 
-@st.cache_data(ttl=60)  # Auto-refresh every 60 seconds
+@st.cache_data(ttl=5)  # Auto-refresh every 5 seconds
 def get_today_data():
     records = worksheet.get_all_records()
     df = pd.DataFrame(records)
