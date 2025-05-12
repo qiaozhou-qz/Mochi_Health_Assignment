@@ -21,7 +21,7 @@ A Streamlit application for tracking and visualizing the emotional vibe of patie
 ## Installation 📥
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mood-of-the-queue.git
+   git clone https://github.com/qiaozhou-qz/Mochi_Health_Assignment.git
    cd mood-of-the-queue
 2. Set Up a Virtual Environment
    ```bash
