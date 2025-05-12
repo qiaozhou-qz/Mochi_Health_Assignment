@@ -22,7 +22,7 @@ A Streamlit application for tracking and visualizing the emotional vibe of patie
 1. Clone the repository:
    ```bash
    git clone https://github.com/qiaozhou-qz/Mochi_Health_Assignment.git
-   cd mood-of-the-queue
+   cd Mochi_Health_Assignment
 2. Set Up a Virtual Environment
    ```bash
    python3 -m venv venv
